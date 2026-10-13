@@ -7,7 +7,7 @@ Vytvořte hodnotový typ — strukturu `PostovniAdresa`, která bude uchovávat 
 
 Požadavky:
 
-- Struktura bude obsahovat automatické vlastnosti: `Ulice`, `CisloPopisne`, `Mesto` a `PSC`.
+- Struktura bude obsahovat vlastnosti: `Ulice`, `CisloPopisne`, `Mesto` a `PSC`.
 - Přidejte konstruktor pro nastavení všech těchto čtyř hodnot při vytvoření struktury.
 
 ## 2. Vlastní třída a privátní datové položky
@@ -17,7 +17,7 @@ Vytvořte novou třídu s názvem `BankovniUcet`.
 Požadavky:
 - Uvnitř třídy definujte privátní datové položky (fields):
 
-    - `_cisloUctu` (řetězec),
+    - `_cisloUctu` (textový řetězec),
 
     - `_zustatek` (desetinné číslo / decimal),
 

@@ -1,5 +1,4 @@
-﻿namespace ZakladyOOP
-{
+
     using System;
 
     namespace ZákladyOOP
@@ -131,4 +130,4 @@
             }
         }
     }
-}
+

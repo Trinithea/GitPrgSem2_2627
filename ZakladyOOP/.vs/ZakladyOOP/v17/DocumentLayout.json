@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\ZakladyOOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBF2C5B3-9452-4285-BFD8-B21C30B3C1B8}|ZakladyOOP\\ZakladyOOP.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\26_27\\prgsem2\\zakladyoop\\zakladyoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBF2C5B3-9452-4285-BFD8-B21C30B3C1B8}|ZakladyOOP\\ZakladyOOP.csproj|solutionrelative:zakladyoop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\ZakladyOOP\\ZakladyOOP\\Program.cs",
+              "RelativeDocumentMoniker": "ZakladyOOP\\Program.cs",
+              "ToolTip": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\ZakladyOOP\\ZakladyOOP\\Program.cs*",
+              "RelativeToolTip": "ZakladyOOP\\Program.cs*",
+              "ViewState": "AgIAACUAAAAAAAAAAAAkwAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-13T08:12:46.553Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

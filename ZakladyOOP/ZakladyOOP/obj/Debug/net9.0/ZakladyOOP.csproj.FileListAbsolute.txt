@@ -1,0 +1,14 @@
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\bin\Debug\net9.0\ZakladyOOP.exe
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\bin\Debug\net9.0\ZakladyOOP.deps.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\bin\Debug\net9.0\ZakladyOOP.runtimeconfig.json
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\bin\Debug\net9.0\ZakladyOOP.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\bin\Debug\net9.0\ZakladyOOP.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ZakladyOOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ZakladyOOP.AssemblyInfoInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ZakladyOOP.AssemblyInfo.cs
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ZakladyOOP.csproj.CoreCompileInputs.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ZakladyOOP.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\refint\ZakladyOOP.dll
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ZakladyOOP.pdb
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ZakladyOOP.genruntimeconfig.cache
+C:\Users\mysak\Documents\03_TEACHING\02_SEMINAR_Z_PROGRAMOVANI\26_27\PrgSem2\ZakladyOOP\ZakladyOOP\obj\Debug\net9.0\ref\ZakladyOOP.dll

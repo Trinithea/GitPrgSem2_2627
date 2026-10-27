@@ -9,15 +9,15 @@ namespace OOP_Arena
 {
     class Arena
     {
-        private Bojovnik bojovnik1;
-        private Bojovnik bojovnik2;
-        private Kostka kostka;
+        private Bojovnik _bojovnik1;
+        private Bojovnik _bojovnik2;
+        private Kostka _kostka;
 
         public Arena(Bojovnik bojovnik1, Bojovnik bojovnik2, Kostka kostka)
         {
-            this.bojovnik1 = bojovnik1;
-            this.bojovnik2 = bojovnik2;
-            this.kostka = kostka;
+            this._bojovnik1 = bojovnik1;
+            this._bojovnik2 = bojovnik2;
+            this._kostka = kostka;
         }
         private void VykresliArenu()
         {
@@ -25,8 +25,8 @@ namespace OOP_Arena
             Console.WriteLine("  /$$$$$$                                         \r\n /$$__  $$                                        \r\n| $$  \\ $$  /$$$$$$   /$$$$$$  /$$$$$$$   /$$$$$$ \r\n| $$$$$$$$ /$$__  $$ /$$__  $$| $$__  $$ |____  $$\r\n| $$__  $$| $$  \\__/| $$$$$$$$| $$  \\ $$  /$$$$$$$\r\n| $$  | $$| $$      | $$_____/| $$  | $$ /$$__  $$\r\n| $$  | $$| $$      |  $$$$$$$| $$  | $$|  $$$$$$$\r\n|__/  |__/|__/       \\_______/|__/  |__/ \\_______/\r\n                                                  \r\n                                                  \r\n                                                  ");
 
             Console.WriteLine("Zdraví bojovníků: \n");
-            Console.WriteLine("{0} {1}", bojovnik1, bojovnik1.VratGrafickyPekneZivoty());
-            Console.WriteLine("{0} {1}", bojovnik2, bojovnik2.VratGrafickyPekneZivoty());
+            Console.WriteLine("{0} {1}", _bojovnik1, _bojovnik1.VratGrafickyPekneZivoty());
+            Console.WriteLine("{0} {1}", _bojovnik2, _bojovnik2.VratGrafickyPekneZivoty());
         }
 
         private void VypisZpravu(string zprava)
@@ -39,20 +39,20 @@ namespace OOP_Arena
             Console.Clear();
             Console.WriteLine("  /$$$$$$                                         \r\n /$$__  $$                                        \r\n| $$  \\ $$  /$$$$$$   /$$$$$$  /$$$$$$$   /$$$$$$ \r\n| $$$$$$$$ /$$__  $$ /$$__  $$| $$__  $$ |____  $$\r\n| $$__  $$| $$  \\__/| $$$$$$$$| $$  \\ $$  /$$$$$$$\r\n| $$  | $$| $$      | $$_____/| $$  | $$ /$$__  $$\r\n| $$  | $$| $$      |  $$$$$$$| $$  | $$|  $$$$$$$\r\n|__/  |__/|__/       \\_______/|__/  |__/ \\_______/\r\n                                                  \r\n                                                  \r\n                                                  ");
             Console.WriteLine("Vítejte v aréně!");
-            Console.WriteLine($"Dnes se utkají {bojovnik1} a {bojovnik2}! \n");
+            Console.WriteLine($"Dnes se utkají {_bojovnik1} a {_bojovnik2}! \n");
             Console.WriteLine("Zápas může začít...");
             Console.ReadKey();
             // cyklus s bojem
-            while (bojovnik1.JeNazivu() && bojovnik2.JeNazivu())
+            while (_bojovnik1.JeNazivu() && _bojovnik2.JeNazivu())
             {
-                bojovnik1.Utoc(bojovnik2);
+                _bojovnik1.Utoc(_bojovnik2);
                 VykresliArenu();
-                VypisZpravu(bojovnik1.Zprava); // zpráva o útoku
-                VypisZpravu(bojovnik2.Zprava); // zpráva o obraně
-                bojovnik2.Utoc(bojovnik1);
+                VypisZpravu(_bojovnik1.Zprava); // zpráva o útoku
+                VypisZpravu(_bojovnik2.Zprava); // zpráva o obraně
+                _bojovnik2.Utoc(_bojovnik1);
                 VykresliArenu();
-                VypisZpravu(bojovnik2.Zprava); // zpráva o útoku
-                VypisZpravu(bojovnik1.Zprava); // zpráva o obraně
+                VypisZpravu(_bojovnik2.Zprava); // zpráva o útoku
+                VypisZpravu(_bojovnik1.Zprava); // zpráva o obraně
                 Console.WriteLine();
             }
         }

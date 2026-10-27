@@ -98,7 +98,7 @@ namespace OOP_Arena
 
             }
             else
-                Zprava = $"{0} odrazil útok";
+                Zprava = $"{_jmeno} odrazil útok";
         }
     }
 }

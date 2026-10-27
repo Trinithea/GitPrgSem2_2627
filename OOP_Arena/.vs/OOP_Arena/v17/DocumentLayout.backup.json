@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\26_27\\prgsem2\\oop_arena\\oop_arena\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|solutionrelative:oop_arena\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\26_27\\prgsem2\\oop_arena\\oop_arena\\bojovnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|solutionrelative:oop_arena\\bojovnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\26_27\\prgsem2\\oop_arena\\oop_arena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|solutionrelative:oop_arena\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\26_27\\prgsem2\\oop_arena\\oop_arena\\bojovnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|solutionrelative:oop_arena\\bojovnik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\26_27\\prgsem2\\oop_arena\\oop_arena\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|solutionrelative:oop_arena\\arena.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90DC3EC5-7EEB-49D9-B3A4-34600BE97057}|OOP_Arena\\OOP_Arena.csproj|c:\\users\\mysak\\documents\\03_teaching\\02_seminar_z_programovani\\26_27\\prgsem2\\oop_arena\\oop_arena\\kostka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,17 +26,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Arena.cs",
               "DocumentMoniker": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\Arena.cs",
               "RelativeDocumentMoniker": "OOP_Arena\\Arena.cs",
               "ToolTip": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\Arena.cs",
               "RelativeToolTip": "OOP_Arena\\Arena.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABoAAAAAAAAAAAAUwCQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T12:12:45.665Z",
               "EditorCaption": ""
@@ -49,7 +49,7 @@
               "RelativeDocumentMoniker": "OOP_Arena\\Kostka.cs",
               "ToolTip": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\Kostka.cs",
               "RelativeToolTip": "OOP_Arena\\Kostka.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T12:13:56.989Z",
               "EditorCaption": ""
@@ -62,20 +62,20 @@
               "RelativeDocumentMoniker": "OOP_Arena\\Program.cs",
               "ToolTip": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\Program.cs",
               "RelativeToolTip": "OOP_Arena\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T12:12:03.195Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Bojovnik.cs",
               "DocumentMoniker": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\Bojovnik.cs",
               "RelativeDocumentMoniker": "OOP_Arena\\Bojovnik.cs",
               "ToolTip": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\Bojovnik.cs",
               "RelativeToolTip": "OOP_Arena\\Bojovnik.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAwwGQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-26T12:13:11.837Z",
               "EditorCaption": ""

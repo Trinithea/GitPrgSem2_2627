@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\OOP_Arena.csproj",
+      "projectUniqueName": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\Gity\\GitPrgSem2_2627\\OOP_Arena\\OOP_Arena\\OOP_Arena.csproj",
       "projectName": "OOP_Arena",
-      "projectPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\OOP_Arena.csproj",
+      "projectPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\Gity\\GitPrgSem2_2627\\OOP_Arena\\OOP_Arena\\OOP_Arena.csproj",
       "packagesPath": "C:\\Users\\mysak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\OOP_Arena\\OOP_Arena\\obj\\",
+      "outputPath": "C:\\Users\\mysak\\Documents\\03_TEACHING\\02_SEMINAR_Z_PROGRAMOVANI\\26_27\\PrgSem2\\Gity\\GitPrgSem2_2627\\OOP_Arena\\OOP_Arena\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
